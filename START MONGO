@@ -1,0 +1,3 @@
+Tem que usar SUDO
+
+sudo mongod --dbpath=data/db

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$/week_001/challenge" libraries="{Mongo NodeJS/week_001/challenge/node_modules}" />
+    <file url="file://$PROJECT_DIR$/week_001/hw1-2" libraries="{Mongo NodeJS/week_001/hw1-2/node_modules}" />
+    <file url="file://$PROJECT_DIR$/week_001/hw1-3" libraries="{Mongo NodeJS/week_001/hw1-3/node_modules}" />
+  </component>
+</project>
